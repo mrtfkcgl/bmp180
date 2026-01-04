@@ -66,8 +66,8 @@ printf("Environment: %.2f C | %.2f hPa\n", temp, (float)pressure/100.0f);
 ## 🤝 Open for Use & Learning
 This project is open-source! I wrote this primarily for learning purposes, and it is open for anyone to use, modify, or study. Whether you are a student or a fellow engineer, feel free to dive into the code.
 
-## ❤️ Acknowledgments
+##  Acknowledgments
 Thank you for visiting this repository! Exploring the depths of the Linux kernel and hardware communication has been a great journey. I hope this code helps you in your own learning path.
 
 ---
-Developed with ❤️ by **Emre TUFEKCIOGLU**
+Developed with  by **Emre TUFEKCIOGLU**
